@@ -1,0 +1,16 @@
+{"time":"2025-05-17T14:06:25.210398+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework/wandb/run-20250517_140624-s4123ezv/logs/debug-core.log"}
+{"time":"2025-05-17T14:06:25.46651+01:00","level":"INFO","msg":"created new stream","id":"s4123ezv"}
+{"time":"2025-05-17T14:06:25.466557+01:00","level":"INFO","msg":"stream: started","id":"s4123ezv"}
+{"time":"2025-05-17T14:06:25.466562+01:00","level":"INFO","msg":"handler: started","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:25.466589+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:25.46659+01:00","level":"INFO","msg":"sender: started","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:25.726114+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T14:06:27.77636+01:00","level":"INFO","msg":"Stopping system monitor"}
+{"time":"2025-05-17T14:06:27.776394+01:00","level":"INFO","msg":"Stopped system monitor"}
+{"time":"2025-05-17T14:06:28.309023+01:00","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2025-05-17T14:06:28.510034+01:00","level":"INFO","msg":"handler: operation stats","stats":{}}
+{"time":"2025-05-17T14:06:28.516265+01:00","level":"INFO","msg":"stream: closing","id":"s4123ezv"}
+{"time":"2025-05-17T14:06:28.51629+01:00","level":"INFO","msg":"handler: closed","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:28.516306+01:00","level":"INFO","msg":"writer: Close: closed","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:28.51632+01:00","level":"INFO","msg":"sender: closed","stream_id":"s4123ezv"}
+{"time":"2025-05-17T14:06:28.516515+01:00","level":"INFO","msg":"stream: closed","id":"s4123ezv"}
