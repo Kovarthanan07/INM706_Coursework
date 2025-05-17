@@ -1,0 +1,16 @@
+{
+  "os": "macOS-15.4.1-arm64-arm-64bit",
+  "python": "CPython 3.10.4",
+  "startedAt": "2025-05-17T14:08:18.765918Z",
+  "program": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework/main.ipynb",
+  "codePath": "main.ipynb",
+  "git": {
+    "remote": "https://github.com/Kovarthanan07/INM706_Coursework.git",
+    "commit": "a3ee51cc1b704c82c6e3fc62ba0e5f260e492414"
+  },
+  "email": "kovarthanan07@gmail.com",
+  "root": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework",
+  "host": "MacBookPro",
+  "executable": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/.venv/bin/python",
+  "codePathLocal": "main.ipynb"
+}

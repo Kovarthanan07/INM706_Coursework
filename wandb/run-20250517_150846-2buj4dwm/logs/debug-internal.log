@@ -1,0 +1,8 @@
+{"time":"2025-05-17T15:08:46.222879+01:00","level":"INFO","msg":"stream: starting","core version":"0.19.11","symlink path":"/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework/wandb/run-20250517_150846-2buj4dwm/logs/debug-core.log"}
+{"time":"2025-05-17T15:08:46.488768+01:00","level":"INFO","msg":"created new stream","id":"2buj4dwm"}
+{"time":"2025-05-17T15:08:46.488815+01:00","level":"INFO","msg":"stream: started","id":"2buj4dwm"}
+{"time":"2025-05-17T15:08:46.488821+01:00","level":"INFO","msg":"handler: started","stream_id":"2buj4dwm"}
+{"time":"2025-05-17T15:08:46.488845+01:00","level":"INFO","msg":"writer: Do: started","stream_id":"2buj4dwm"}
+{"time":"2025-05-17T15:08:46.488852+01:00","level":"INFO","msg":"sender: started","stream_id":"2buj4dwm"}
+{"time":"2025-05-17T15:08:46.671408+01:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-05-17T15:08:46.743119+01:00","level":"INFO","msg":"Pausing system monitor"}

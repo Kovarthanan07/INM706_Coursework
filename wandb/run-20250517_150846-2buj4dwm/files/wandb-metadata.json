@@ -1,0 +1,44 @@
+{
+  "os": "macOS-15.4.1-arm64-arm-64bit",
+  "python": "CPython 3.10.4",
+  "startedAt": "2025-05-17T14:08:46.222355Z",
+  "program": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework/main.ipynb",
+  "codePath": "main.ipynb",
+  "git": {
+    "remote": "https://github.com/Kovarthanan07/INM706_Coursework.git",
+    "commit": "a3ee51cc1b704c82c6e3fc62ba0e5f260e492414"
+  },
+  "email": "kovarthanan07@gmail.com",
+  "root": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/INM706_Coursework",
+  "host": "MacBookPro",
+  "executable": "/Users/kovarthanan/Acedamic/City, University of London/INM706 - Seqence/.venv/bin/python",
+  "codePathLocal": "main.ipynb",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "494384795648",
+      "used": "468068450304"
+    },
+    "/System/Volumes/Data": {
+      "total": "494384795648",
+      "used": "468068450304"
+    }
+  },
+  "memory": {
+    "total": "17179869184"
+  },
+  "cpu": {
+    "count": 8,
+    "countLogical": 8
+  },
+  "apple": {
+    "name": "Apple M1 Pro",
+    "ecpuCores": 2,
+    "pcpuCores": 6,
+    "gpuCores": 14,
+    "memoryGb": 16,
+    "swapTotalBytes": "4294967296",
+    "ramTotalBytes": "17179869184"
+  }
+}
