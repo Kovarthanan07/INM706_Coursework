@@ -3,6 +3,7 @@
 **Course:** INM706 - Deep Learning for Sequence Analysis  
 **Program:** MSc in Artificial Intelligence  
 **University:** City, University of London  
+By Marium Waseem and Kovarthanan
 
 ---
 
